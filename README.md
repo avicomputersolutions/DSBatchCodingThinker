@@ -2,20 +2,33 @@
 This is Data Science Course repo. Here,  we will learn from Zero to Hero Concepts of Data Science. At the end, we Will Implement 120 project by combining different concepts of Deep Learning, Machine Learning, Python and Mathematics
 **
 Project-1: Pan Card Tempering Detector App -Deploy On Heroku
+
 Project-2: Dog breed prediction Flask App
+
 Project-3: Image Watermarking App -Deploy On Heroku
+
 Project-4: Traffic sign classification
+
 Project-5: Text Extraction From Images Application
+
 Project-6: Plant Disease Prediction Streamlit App
+
 Project-7: Vehicle Detection And Counting Flask App
+
 Project-8: Create A Face Swapping Flask App
+
 Project-9: Bird Species Prediction Flask App
+
 Project-10: Intel Image Classification Flask App
 
 Project-11: Language Translator App Using IBM Cloud Service -Deploy On Heroku
+
 Project-12: Predict Views On Advertisement Using IBM Watson -Deploy On Heroku
+
 Project-13: Laptop Price Predictor -Deploy On Heroku
+
 Project-14: WhatsApp Text Analyzer -Deploy On Heroku
+
 Project-15: Course Recommendation System -Deploy On Heroku
 Project-16: IPL Match Win Predictor -Deploy On Heroku
 Project-17: Body Fat Estimator App -Deploy On Microsoft Azure
