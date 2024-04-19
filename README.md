@@ -1,6 +1,6 @@
 # Data Science Batch CodingThinker
 This is Data Science Course repo. Here,  we will learn from Zero to Hero Concepts of Data Science. At the end, we Will Implement 120 project by combining different concepts of Deep Learning, Machine Learning, Python and Mathematics
-
+**
 Project-1: Pan Card Tempering Detector App -Deploy On Heroku
 Project-2: Dog breed prediction Flask App
 Project-3: Image Watermarking App -Deploy On Heroku
@@ -132,4 +132,5 @@ Project-117: Building Caterpillar Game Using Turtle and Python
 Project-118: Building Hangman Game Using Python
 Project-119: Developing our own Smart Calculator Using Python and Tkinter
 Project-120: Image-based steganography Using Python and pillows
+**
 
